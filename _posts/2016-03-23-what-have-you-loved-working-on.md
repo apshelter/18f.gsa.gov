@@ -20,7 +20,7 @@ Two weeks ago, we asked everyone across 18F to answer a few simple questions:
 
 Dozens of people from every team and time zone responded, and today we share their answers to the question: What have you loved working on?
 
-Here's the tl;dr: More than one person mentioned that they really enjoyed working on meaningful, mission-driven projects that impact millions of people. It's true: we work on projects like <a href="https://collegescorecard.ed.gov/">College Scorecard</a>, a clearinghouse to provide the clearest, most accessible, and reliable national data on college cost, graduation, debt, and post-college earnings, and <a href="https://myaccount.uscis.dhs.gov/">an account system</a> used by hundreds of thousands of immigrants to keep their information up to date.
+More than one person mentioned that they really enjoyed working on meaningful, mission-driven projects that impact millions of people. It's true: we work on projects like <a href="https://collegescorecard.ed.gov/">College Scorecard</a>, a clearinghouse to provide the clearest, most accessible, and reliable national data on college cost, graduation, debt, and post-college earnings, and <a href="https://myaccount.uscis.dhs.gov/">an account system</a> used by hundreds of thousands of immigrants to keep their information up to date.
 
 When we work on big, meaningful projects, we do it in the open — all of <a href="https://github.com/18F/">our code is public</a> and we publish how-tos, tutorials, and what we've learned on the 18F blog.
 
